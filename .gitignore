@@ -1,0 +1,10 @@
+
+# pixi environments
+.pixi
+*.egg-info
+# magic environments
+.magic
+/mtemplate/
+/qtemplate/
+/rtemplate/
+/ztemplate/
