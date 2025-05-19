@@ -1,9 +1,9 @@
 
-# pixi environments
 .pixi
 *.egg-info
-# magic environments
 .magic
+/pubtemplate/
+/gtemplate/
 /mtemplate/
 /qtemplate/
 /rtemplate/
