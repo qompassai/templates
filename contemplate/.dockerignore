@@ -1,0 +1,21 @@
+# .dockerignore
+# Qompass AI - [Add description here]
+# Copyright (C) 2025 Qompass AI, All rights reserved
+# ----------------------------------------
+**/.pytest_cache
+**/.tox
+**/__pycache__
+**/venv*
+.dockerignore
+.git
+.idea
+.travis.yml
+.venv
+/target
+Dockerfile*
+appveyor.yml
+ci
+sysconfig
+test-crates
+test-data
+test-dockerfile.sh

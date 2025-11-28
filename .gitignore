@@ -1,0 +1,10 @@
+
+.pixi
+*.egg-info
+.magic
+/pubtemplate/
+/gtemplate/
+/mtemplate/
+/qtemplate/
+/rtemplate/
+/ztemplate/
