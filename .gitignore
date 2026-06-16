@@ -2,6 +2,7 @@
 .pixi
 *.egg-info
 .magic
+/droidtemplate/
 /pubtemplate/
 /gtemplate/
 /mtemplate/
